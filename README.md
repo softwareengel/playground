@@ -7,7 +7,6 @@ We use github issues for tracking new requests and bugs. Your feedback is highly
 guidelines](CONTRIBUTING).**
 
 ## Development
-Start downloading the relevant npm modules ('npm install') e.g. http-server.
 
 To run the visualization locally you just need a server to serve all the files from the `dist` directory. You can run `npm install` then `npm run serve` if you don't have one handy. To see the visualization, visit `http://localhost:8080/` on your browser.
 
